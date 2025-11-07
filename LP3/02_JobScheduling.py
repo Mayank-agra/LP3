@@ -53,3 +53,15 @@ for i in range(n):
 result, profit = JobSchedule(jobs)
 print("Order of jobs done:", result)
 print("Total Profit:", profit)
+
+
+## input and output
+# Number of jobs: 5
+
+# Jobs:
+# J1 → Deadline = 2, Profit = 100  
+# J2 → Deadline = 1, Profit = 19  
+# J3 → Deadline = 2, Profit = 27  
+# J4 → Deadline = 1, Profit = 25  
+# J5 → Deadline = 3, Profit = 15
+
